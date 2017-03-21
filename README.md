@@ -1,2 +1,1 @@
-# bolumbilgisistemi
-Bölüm Bilgi Sistemi
+Gazi Üniversitesi Bilgisayar Mühendisliği bölümü öğrencisiyim. Bölüm Bilgi Sistemi adlı bu çalışmam kendimi geliştirmek adına yaptığım bir çalışmadır. Bu sistemde akademisyenler parolaları ile giriş yapıp ders, derslik, sınav programı gibi bilgileri ekleyip güncelleme yapabilmektedir. Personel ekleyip onları parola atama işlemi ise tek kullanıcıya aittir. Bütün akademisyenler bu 2 işlemi yapamamaktadır.
